@@ -687,7 +687,7 @@ function spriteFrame(t, now, speaking, kind) {
       .map(v => Math.max(-1, Math.min(1, v)));
   }
   const target = now - SP.pointerAt < 4000 && SP.pointer ? SP.pointer
-    : gaze || [Math.sin(now / 2300) * .25, Math.sin(now / 3100) * .15];
+    : gaze || [0, 0];
   SP.look = SP.look.map((v, i) => v + (target[i] - v) * .07);
   // a blink: half closed, closed, half closed (without a "half" image: closed only); now and then a double blink
   if (now > SP.nextBlink) { SP.blinkAt = now; SP.nextBlink = now + (Math.random() < .15 ? 260 : 2200 + Math.random() * 4000); }
