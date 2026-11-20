@@ -1,8 +1,8 @@
 {
  "format": "myradio/station-1",
  "name": "るなラジオ",
- "description": "GPTが朝と夕方に届けてくれるニュースを、夜野るなが声で読む放送局。気になる話題を短くお届けします。",
- "tagline": "るなが読む、朝と夕方のニュース",
+ "description": "夜野るなが集めて声で読む、夕方のニュース放送局。今日の話題を短くお届けします。",
+ "tagline": "るなが読む、夕方のニュース",
  "logo": "logo.svg",
  "url": "https://luna-vivi.github.io/luna-radio/",
  "repo": "https://github.com/luna-vivi/luna-radio",
