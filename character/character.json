@@ -2,36 +2,36 @@
  "format": "myradio/character-1",
  "type": "sprites",
  "size": [
-  512,
-  1024
+  896,
+  768
  ],
  "background": "#161a26",
  "base": "base.png",
  "parts": {
   "mouth_open": {
    "src": "mouth_open.png",
-   "x": 215,
-   "y": 379
+   "x": 417,
+   "y": 284
   },
   "mouth_half": {
    "src": "mouth_half.png",
-   "x": 215,
-   "y": 379
+   "x": 417,
+   "y": 284
   },
   "smile_mouth": {
    "src": "smile_mouth.png",
-   "x": 215,
-   "y": 379
+   "x": 417,
+   "y": 284
   },
   "blink": {
    "src": "blink.png",
-   "x": 87,
-   "y": 293
+   "x": 321,
+   "y": 220
   },
   "half_blink": {
    "src": "half_blink.png",
-   "x": 87,
-   "y": 293
+   "x": 321,
+   "y": 220
   }
  },
  "mouth": {
