@@ -18,7 +18,7 @@
  "episodes": "episodes.json",
  "character": {
   "pack": "character/character.json",
-  "thumbnail": "character/base.png",
+  "thumbnail": "character/base_v2.png",
   "note": "AIで生成したキャラクターです"
  },
  "credits": [

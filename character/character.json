@@ -6,30 +6,30 @@
   768
  ],
  "background": "#161a26",
- "base": "base.png",
+ "base": "base_v2.png",
  "parts": {
   "mouth_open": {
-   "src": "mouth_open.png",
+   "src": "mouth_open_v2.png",
    "x": 417,
    "y": 284
   },
   "mouth_half": {
-   "src": "mouth_half.png",
+   "src": "mouth_half_v2.png",
    "x": 417,
    "y": 284
   },
   "smile_mouth": {
-   "src": "smile_mouth.png",
+   "src": "smile_mouth_v2.png",
    "x": 417,
    "y": 284
   },
   "blink": {
-   "src": "blink.png",
+   "src": "blink_v2.png",
    "x": 321,
    "y": 220
   },
   "half_blink": {
-   "src": "half_blink.png",
+   "src": "half_blink_v2.png",
    "x": 321,
    "y": 220
   }
