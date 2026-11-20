@@ -1,325 +1,524 @@
 {
- "title": "ジェミニ4ネオン登場！AIと3Dの5本",
+ "format": "monoradio/news-1",
+ "date": "2026-11-20",
+ "lang": "ja",
+ "title": "日経平均3007円安、米中ロ首脳会談の1日",
  "opening": [
   {
-   "say": "ものラジオです。11月20日金曜日、朝のニュースをお届けします。",
-   "show": "ものラジオです。11月20日金曜日、朝のニュースをお届けします。"
+   "say": "こんばんは、るなラジオです。11月20日金曜日、夕方のニュースをお届けします。",
+   "show": "こんばんは、るなラジオです。11月20日金曜日、夕方のニュースをお届けします。"
   },
   {
-   "say": "今日はAIとスリーディーの話題を5本どうぞ。",
-   "show": "今日はAIと3Dの話題を5本どうぞ。"
+   "say": "今日は外交と市場の大きな動きを中心に、10本です。",
+   "show": "今日は外交と市場の大きな動きを中心に、10本です。"
   }
  ],
  "news": [
   {
-   "label": "Gemini 4 Neon 発表",
+   "label": "日経平均、3007円安の5万6436円",
    "points": [
-    "Googleが新モデルを発表",
-    "100万トークンの文脈",
-    "途中の修正指示に追従"
+    "終値は前日比3007円安、1日の下げ幅は歴代5番目",
+    "5万7000円割れは4月13日以来、7カ月ぶり",
+    "米国のAI・半導体株安が波及し全面安"
    ],
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
    "lines": [
     {
-     "say": "まずはグーグルの新モデル、ジェミニ4ネオンです。",
-     "show": "まずはGoogleの新モデル、Gemini 4 Neonです。"
+     "say": "まずは株式市場です。今日の日経平均株価は、前の日から3007円安い、5万6436円で取引を終えました。",
+     "show": "まずは株式市場です。今日の日経平均株価は、前日比3007円安の5万6436円で取引を終えました。"
     },
     {
-     "say": "ひゃくまんトークンの長い文脈で、開発や分析に強いそうです。",
-     "show": "100万トークンの長い文脈で、開発や分析に強いそうです。"
+     "say": "1日の下げ幅としては歴代5番目の大きさで、5万7000円を下回るのは今年4月以来、7カ月ぶりです。",
+     "show": "1日の下げ幅としては歴代5番目の大きさで、5万7000円を下回るのは今年4月以来、7カ月ぶりです。"
     },
     {
-     "say": "途中の修正指示にも付いてきますよ。",
-     "show": "途中の修正指示にも付いてきますよ。"
+     "say": "アメリカのエーアイや半導体関連の株安が波及して、ほぼ全面安の展開になりました。",
+     "show": "アメリカのAIや半導体関連の株安が波及して、ほぼ全面安の展開になりました。"
     }
    ],
-   "details": [
-    "Google DeepMindが、複雑なソフトウェア開発、分析、科学分野向けの「Gemini 4 Neon」を発表しました。",
-    "API価格は100万入力トークンあたり3ドル、出力15ドルです。",
-    "タスク途中の修正指示への追従も強化したとしています。"
-   ],
+   "url": "https://www.nikkei.com/article/DGXZQOFL200JL0Q6A121C2000000/",
    "link": {
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-    "title": "Introducing Gemini 4 Neon",
-    "site": "Google",
-    "description": "Today, we’re introducing Gemini 4 Neon",
-    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-    "icon": "https://blog.google/static/blogv2/images/apple-touch-icon.png?version=pr20261117-1738"
-   }
-  },
-  {
-   "label": "MIRACO 2 公開",
-   "points": [
-    "PCなしで scan から編集",
-    "最大0.02mmの精度",
-    "自然言語のRevo Agents"
-   ],
-   "url": "https://global.revopoint3d.com/blogs/news/revopoint-launches-miraco-2-on-kickstarter-scan-in-one-create-with-agents",
-   "lines": [
-    {
-     "say": "続いてはスリーディースキャナー、レボポイントのミラコ2です。",
-     "show": "続いては3Dスキャナー、RevopointのMIRACO 2です。"
-    },
-    {
-     "say": "パソコンなしで、スキャンから編集までこれ一台でできます。",
-     "show": "パソコンなしで、スキャンから編集までこれ一台でできます。"
-    },
-    {
-     "say": "AIに言葉で頼める機能もあるんですよ。",
-     "show": "AIに言葉で頼める機能もあるんですよ。"
-    }
-   ],
-   "details": [
-    "スキャン・点群処理・基本編集までをPCなしで行える携帯型です。",
-    "メーカー公称で、6種類のスキャンモードと最大0.02mmの単一フレーム精度を特徴とします。",
-    "Scan-to-CADや検査処理を自然言語で支援します。PC接続時には実寸スケールの3D Gaussian Splattingにも対応します。"
-   ],
-   "link": {
-    "url": "https://global.revopoint3d.com/blogs/news/revopoint-launches-miraco-2-on-kickstarter-scan-in-one-create-with-agents",
-    "title": "Revopoint Launches MIRACO 2 on Kickstarter: Scan in One, Create with Agents",
-    "site": "Revopoint 3D",
-    "description": "MIRACO 2 – Launch Announcement An all-in-one 3D scanner combining high-precision capture, powerful onboard computing, and AI-driven workflows—with Super Early Bird pricing starting at $1,425. Launch D",
-    "image": "http://global.revopoint3d.com/cdn/shop/articles/1280x720.jpg?v=1794983121&width=2048",
-    "icon": "https://global.revopoint3d.com/cdn/shop/files/revo_logo.png?v=1737617023&width=180"
-   }
-  },
-  {
-   "label": "Formnext 2026 受賞",
-   "points": [
-    "AI最適化の造形物が受賞",
-    "印刷直前だけ乾燥",
-    "フィラメント全体は乾燥不要"
-   ],
-   "url": "https://formnext.mesago.com/frankfurt/en/about-us/press/press-releases/formnext-press-releases/Formnext_Award_Winners_2026.html",
-   "lines": [
-    {
-     "say": "さて次は、フォームネクストの受賞ニュースです。",
-     "show": "さて次は、Formnextの受賞ニュースです。"
-    },
-    {
-     "say": "AIで流路を最適化した造形物と、印刷の直前だけ乾燥させる装置が選ばれました。",
-     "show": "AIで流路を最適化した造形物と、印刷の直前だけ乾燥させる装置が選ばれました。"
-    },
-    {
-     "say": "真似したくなる工夫ですね。",
-     "show": "真似したくなる工夫ですね。"
-    }
-   ],
-   "details": [
-    "CFDシミュレーションとベイズ最適化で、微粒子分離用の3D造形ハイドロサイクロン「cAIclone」を開発しました。",
-    "Thought3Dの「Drywise」は、ノズル直前の必要部分だけを調湿します。",
-    "フィラメント全体を事前乾燥する代わりになる工夫で、ナイロンなど吸湿しやすい材料の乾燥工程を効率化できます。"
-   ],
-   "link": {
-    "url": "https://formnext.mesago.com/frankfurt/en/about-us/press/press-releases/formnext-press-releases/Formnext_Award_Winners_2026.html",
-    "title": "The Winners of the Formnext Awards 2026 Demonstrate Innovation and Open New Pathways for Industrial Manufacturing",
-    "site": "formnext.mesago.com",
-    "description": "The winners of the Formnext Awards 2026 were honored on 19 November during a festive awards ceremony at Formnext in Frankfurt. The six award categories recognize different facets of Additive Manufactu",
-    "image": "https://formnext.mesago.com/content/dam/messefrankfurt-mesago/formnext/2026/presse/pressemeldungen/de/Formnext_Awards_2026_Copyright_Formnext_Mesago_Messe_Frankfurt_Marc_Jacquemin.jpg",
+    "url": "https://www.nikkei.com/article/DGXZQOFL200JL0Q6A121C2000000/",
+    "title": "日経平均株価、3日ぶり反落　終値は3007円安の5万6436円",
+    "site": "日本経済新聞",
+    "description": "20日の東京株式市場で日経平均株価は3日ぶりに反落し、終値は前日比3007円56銭（5.06%）安の5万6436円65銭だった。終値で5万7000円を下回ったのは7カ月ぶりで、1日の下げ幅は歴代5番目の大きさだった。",
+    "image": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3911262020112026000000-2.jpg?ixlib=js-3.8.0&w=425&h=264&auto=format%2Ccompress&fit=crop&bg=FFFFFF&s=97e00779096e2558260d3953cb6192e8",
     "icon": null
    }
   },
   {
-   "label": "ルネサスの5指ハンド",
+   "label": "米中ロ首脳、初の3者会談で平和宣言",
    "points": [
-    "卵を割らずにつかむ",
-    "画像認識と圧力センサー",
-    "ジェスチャーを模倣"
+    "習近平・トランプ・プーチンの3首脳が深圳で会談",
+    "核戦争回避を再確認する平和宣言に合意",
+    "ウクライナなどをめぐる隔たりは残ったまま"
    ],
-   "url": "https://news.mynavi.jp/techplus/article/20261119-5361285/",
    "lines": [
     {
-     "say": "お次は日本から、ルネサスのロボットハンドです。",
-     "show": "お次は日本から、ルネサスのロボットハンドです。"
+     "say": "続いて世界の動きです。中国のシュウキンペイ国家主席、アメリカのトランプ大統領、ロシアのプーチン大統領が、中国・深圳で初めての3者会談を開きました。",
+     "show": "続いて世界の動きです。中国の習近平国家主席、アメリカのトランプ大統領、ロシアのプーチン大統領が、中国・深圳で初めての3者会談を開きました。"
     },
     {
-     "say": "卵もスポンジも缶も、力を変えてつかみ分けるデモでした。",
-     "show": "卵もスポンジも缶も、力を変えてつかみ分けるデモでした。"
+     "say": "3人は、核戦争は決して起こしてはならないと再確認する、平和宣言に合意しました。",
+     "show": "3人は、核戦争は決して起こしてはならないと再確認する、平和宣言に合意しました。"
     },
     {
-     "say": "指先のセンサーと画像認識の合わせ技が面白いです。",
-     "show": "指先のセンサーと画像認識の合わせ技が面白いです。"
+     "say": "一方で、ウクライナ情勢などをめぐる隔たりは大きく、宣言の実効性を疑問視する声もあります。",
+     "show": "一方で、ウクライナ情勢などをめぐる隔たりは大きく、宣言の実効性を疑問視する声もあります。"
     }
    ],
-   "details": [
-    "卵、スポンジ、缶などを、適した力で掴み分けるデモを行いました。",
-    "RZ/V2Hによる画像認識で対象を見分け、指先の圧力センサーと事前設定した把持力を使います。",
-    "別のカメラで手のジェスチャーを読み、ハンドに動作を模倣させるデモも行いました。"
-   ],
+   "url": "https://www.reuters.com/jp/world/taiwan/YBQOKP6ZO5IUDNCOVC5PUHAAAQ-2026-11-19/",
    "link": {
-    "url": "https://news.mynavi.jp/techplus/article/20261119-5361285/",
-    "title": "卵を割らずに掴めるAIロボットハンド、ルネサスが実演　EdgeTech+ 2026",
-    "site": "TECH+（テックプラス）",
-    "description": "マクニカとルネサス エレクトロニクスは、パシフィコ横浜で開催されている「EdgeTech+ 2026」において、エッジAIからフィジカルAIまでをテーマとする共同展示を行っている。注目を集めていたのは、AI MPU「RZ/V2H」を活用し、手の動きや物体をカメラで認識して5本指のロボットハンドを制御するデモ。卵やスポンジ、缶飲料など、硬さや形状が異なる物体を、それぞれに適した力で把持する様子を披露",
-    "image": "https://news.mynavi.jp/techplus/article/20261119-5361285/ogp_images/ogp.jpg",
+    "url": "https://www.reuters.com/jp/world/taiwan/YBQOKP6ZO5IUDNCOVC5PUHAAAQ-2026-11-19/",
+    "title": "米中ロ首脳会談、「平和宣言」で合意　核戦争回避を再確認",
+    "site": "ロイター",
+    "description": "中国の習近平国家主席、トランプ米大統領、ロシアのプーチン大統領は19日、初の3者会談で「平和宣言」に合意し、核戦争は決して起こしてはならないと再確認した。国連改革を進めることも表明した。",
+    "image": null,
     "icon": null
    }
   },
   {
-   "label": "Foundry Dev Pack 提供",
+   "label": "高市首相、トランプ大統領と電話会談",
    "points": [
-    "エージェント開発をまとめて導入",
-    "VS Codeでトレース確認",
-    "CLIとプラグインも設定"
+    "19日夜、首相公邸で約20分間",
+    "米中・米中ロ会談の内容について説明を受ける",
+    "日米関係をさらなる高みに、と表明"
    ],
-   "url": "https://devblogs.microsoft.com/foundry/the-foundry-dev-pack-is-here-build-foundry-agents-your-way/",
    "lines": [
     {
-     "say": "最後はマイクロソフトのニュースです。",
-     "show": "最後はMicrosoftのニュースです。"
+     "say": "この会談を受けて、タカイチ首相は昨夜、トランプ大統領と電話で会談しました。",
+     "show": "この会談を受けて、高市首相は昨夜、トランプ大統領と電話で会談しました。"
     },
     {
-     "say": "エージェント開発の道具をまとめた、ファウンドリーデブパックが一般提供になりました。",
-     "show": "エージェント開発の道具をまとめた、Foundry Dev Packが一般提供になりました。"
+     "say": "会談はおよそ20分で、米中首脳会談や米中ロ会談の中身について、詳しい説明を受けたということです。",
+     "show": "会談はおよそ20分で、米中首脳会談や米中ロ会談の中身について、詳しい説明を受けたということです。"
     },
     {
-     "say": "動作の確認や評価まで同じ流れでできます。",
-     "show": "動作の確認や評価まで同じ流れでできます。"
+     "say": "タカイチ首相は、日米は最も信頼し合える同盟国だとしたうえで、関係をさらに引き上げていく考えを示しました。",
+     "show": "高市首相は、日米は最も信頼し合える同盟国だとしたうえで、関係をさらに引き上げていく考えを示しました。"
     }
    ],
-   "details": [
-    "AIエージェントの作成・デバッグ・評価・配備に使う開発環境をまとめたものが、一般提供になりました。",
-    "VS CodeのAgent Inspectorから、リクエストやツール呼び出しのトレースを調べられます。",
-    "CLI（azd ai）とFoundry Skillに加え、対応環境ではVS Code ToolkitやGitHub Copilot向けプラグインもセットアップします。"
-   ],
+   "url": "https://www.reuters.com/jp/world/security/B4ROHGYJD5KUPPH7DXHXY473YI-2026-11-19/",
    "link": {
-    "url": "https://devblogs.microsoft.com/foundry/the-foundry-dev-pack-is-here-build-foundry-agents-your-way/",
-    "title": "The Foundry Dev Pack is here: build Foundry agents your way | Microsoft Foundry Blog",
-    "site": "Microsoft Foundry Blog",
-    "description": "Your next agent can start wherever you like to build: in your editor, at the terminal, or with your favorite coding agent. At Microsoft Ignite, we're",
-    "image": "https://devblogs.microsoft.com/foundry/wp-content/uploads/sites/89/2026/11/Foundry-dev-pack.webp",
-    "icon": "https://devblogs.microsoft.com/foundry/wp-content/themes/devblogs-evo/images/favicon/favicon-512.png?ver=1789493481"
+    "url": "https://www.reuters.com/jp/world/security/B4ROHGYJD5KUPPH7DXHXY473YI-2026-11-19/",
+    "title": "日米首脳が電話会談、「米中ロの詳細な説明あった」と高市氏",
+    "site": "ロイター",
+    "description": "高市早苗首相は19日夜、首相公邸でトランプ米大統領と約20分電話で会談した。米中首脳会談や米中ロ首脳会談の内容について詳細な説明があったと明らかにし、日米関係を一層強化していく考えを示した。",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "Anthropicが上場、IPO調達は史上最大",
+   "points": [
+    "ナスダック上場、調達813億ドルは過去最大",
+    "日本からの需要は募集の約4倍、1.5兆円超",
+    "AI市場の先行きには慎重な見方も"
+   ],
+   "lines": [
+    {
+     "say": "エーアイの話題です。アメリカのアンソロピックが、ナスダック市場に上場しました。",
+     "show": "AIの話題です。米Anthropicがナスダック市場に上場しました。"
+    },
+    {
+     "say": "アイピーオーによる調達額は813億ドル、日本円でおよそ13兆円と、スペースエックスを上回って過去最大になりました。",
+     "show": "IPOによる調達額は813億ドル（約13兆円）で、スペースXを上回り過去最大となりました。"
+    },
+    {
+     "say": "日本からの需要も募集額のおよそ4倍に達しましたが、エーアイ市場の先行きを慎重に見る投資家もいて、反応には温度差があったようです。",
+     "show": "日本からの需要も募集額のおよそ4倍に達しましたが、AI市場の先行きを慎重に見る投資家もいて、反応には温度差があったようです。"
+    }
+   ],
+   "url": "https://www.reuters.com/jp/markets/global-markets/SGFII5HEDNL7XAWKEPQHWM5UWE-2026-11-19/",
+   "link": {
+    "url": "https://www.reuters.com/jp/markets/global-markets/SGFII5HEDNL7XAWKEPQHWM5UWE-2026-11-19/",
+    "title": "アンソロピック上場、日本需要1.5兆円超　スペースＸ超えもＡＩ投資に温度差＝関係者",
+    "site": "ロイター",
+    "description": "米アンソロピックが米国東部時間19日、ナスダック市場に上場した。関係者によると、日本では約4700億円の募集に対し需要は1.5兆円を超え、スペースXを上回る旺盛な需要を集めたとみられる。",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "三菱UFJ銀行、顧客情報約650万件が漏えい",
+   "points": [
+    "漏えいは性別・年齢・居住地域のみ、氏名などは含まれず",
+    "原因は委託先プレイドのサービスKARTEへの不正アクセス",
+    "他社でも同じサービス経由の流出が相次ぐ"
+   ],
+   "lines": [
+    {
+     "say": "三菱ユーエフジェイ銀行は、顧客に関する情報およそ650万件が漏えいしたと発表しました。",
+     "show": "三菱UFJ銀行は、顧客情報約650万件が漏えいしたと発表しました。"
+    },
+    {
+     "say": "漏れたのは性別、年齢、住んでいる地域で、名前やメールアドレスなど、個人を特定できる情報は含まれていないということです。",
+     "show": "漏れたのは性別、年齢、住んでいる地域で、名前やメールアドレスなど、個人を特定できる情報は含まれていないということです。"
+    },
+    {
+     "say": "原因は、業務委託先のプレイドが提供するサービス、カルテへの不正アクセスでした。他の会社でも同じサービス経由の流出が相次いでいます。",
+     "show": "原因は、委託先プレイドのサービス「KARTE」への不正アクセスで、他社でも同様の流出が相次いでいます。"
+    }
+   ],
+   "url": "https://www.fnn.jp/articles/-/1154950",
+   "link": {
+    "url": "https://www.fnn.jp/articles/-/1154950",
+    "title": "三菱UFJ銀行で650万件の顧客情報漏えい　性別・年齢・居住地域でメアドなど個人特定の情報なし　委託会社への不正アクセスが原因",
+    "site": "FNNプライムオンライン",
+    "description": "三菱UFJ銀行は顧客情報約650万件の漏えいを発表した。漏えいしたのは性別・年齢・居住地域で、氏名やメールアドレスなど個人特定につながる情報はないという。委託先のサービス「KARTE」への不正アクセスが原因。",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "Mac版GeminiにPC操作の新機能",
+   "points": [
+    "AIがクリックや文字入力を代行する「Computer use」",
+    "作業は隔離された裏側のウィンドウで進行",
+    "米国から順次提供、日本は未定"
+   ],
+   "lines": [
+    {
+     "say": "グーグルのジェミニに、パソコンを操作する新しい機能が加わりました。",
+     "show": "GoogleのGeminiに、PCを操作する新機能「Computer use」が加わりました。"
+    },
+    {
+     "say": "指示に応じて、ファイルやアプリ、ウェブサイトを横断しながら、クリックや文字入力を代行してくれます。",
+     "show": "指示に応じて、ファイルやアプリ、ウェブサイトを横断しながら、クリックや文字入力を代行してくれます。"
+    },
+    {
+     "say": "作業は別のウィンドウで進むので、自分の作業は続けられます。提供はアメリカから順次で、日本はまだ未定です。",
+     "show": "作業は別のウィンドウで進むので、自分の作業は続けられます。提供はアメリカから順次で、日本はまだ未定です。"
+    }
+   ],
+   "url": "https://www.watch.impress.co.jp/docs/news/2158164.html",
+   "link": {
+    "url": "https://www.watch.impress.co.jp/docs/news/2158164.html",
+    "title": "Mac版Geminiに「Computer use」　PC作業をAIが代行",
+    "site": "Impress Watch",
+    "description": "Googleは19日（米国時間）、Mac版Geminiアプリに、AIがPCを操作して作業を自動実行する「Computer use」機能を追加した。米国で提供を順次開始し、日本での提供は未定。",
+    "image": "https://asset.watch.impress.co.jp/img/ipw/docs/2158/164/01_s.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "10月の消費者物価、2.2%上昇",
+   "points": [
+    "コアCPIは前年比2.2%上昇、2カ月連続の2%台",
+    "電気・ガス補助の縮小でエネルギーがプラスに",
+    "コメ価格の下落で食料の伸びは鈍化"
+   ],
+   "lines": [
+    {
+     "say": "暮らしの話題です。10月の消費者物価指数は、前の年の同じ月と比べて2.2パーセント上昇しました。",
+     "show": "暮らしの話題です。10月の消費者物価指数（生鮮食品を除く）は前年同月比2.2%上昇しました。"
+    },
+    {
+     "say": "電気・ガス料金への補助が縮小したことでエネルギーが値上がりする一方、お米の価格が下がって、食料の伸びは緩やかになりました。",
+     "show": "電気・ガス料金への補助が縮小したことでエネルギーが値上がりする一方、お米の価格が下がって、食料の伸びは緩やかになりました。"
+    },
+    {
+     "say": "伸び率は市場の予想を少し下回りました。",
+     "show": "伸び率は市場の予想を少し下回りました。"
+    }
+   ],
+   "url": "https://www.reuters.com/jp/markets/japan/BNGAGYVD3FNK5HD3M32MKITHDI-2026-11-19/",
+   "link": {
+    "url": "https://www.reuters.com/jp/markets/japan/BNGAGYVD3FNK5HD3M32MKITHDI-2026-11-19/",
+    "title": "全国コアＣＰＩ、10月は＋2.2％　コメ大幅下落で生鮮除く食料が鈍化",
+    "site": "ロイター",
+    "description": "総務省が20日に発表した10月の全国消費者物価指数（生鮮食品を除く総合指数、コアCPI）は前年比2.2％上昇し、伸び率は前月の2.1％から小幅に拡大、2カ月連続で2％台となった。",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "ブルーインパルス、週末に奈良で展示飛行",
+   "points": [
+    "11月21日・22日、奈良基地開庁70周年記念行事",
+    "展示飛行は22日11時20分から12時の予定",
+    "平城宮跡は大混雑予想、公共交通機関の利用を"
+   ],
+   "lines": [
+    {
+     "say": "奈良の話題です。航空自衛隊のブルーインパルスが、この週末、21日と22日に奈良市の上空を飛行します。",
+     "show": "奈良の話題です。航空自衛隊「ブルーインパルス」が11月21日・22日に奈良市上空で展示飛行を行います。"
+    },
+    {
+     "say": "奈良基地開庁70周年を記念した行事で、本番の展示飛行は22日の午前11時20分から12時の予定です。",
+     "show": "奈良基地開庁70周年を記念した行事で、本番の展示飛行は22日の午前11時20分から12時の予定です。"
+    },
+    {
+     "say": "会場のヘイジョウキュウセキ歴史公園では混雑が予想されていて、公共交通機関での来場が呼びかけられています。",
+     "show": "会場の平城宮跡歴史公園では混雑が予想されていて、公共交通機関での来場が呼びかけられています。"
+    }
+   ],
+   "url": "https://flyteam.jp/news/article/146754",
+   "link": {
+    "url": "https://flyteam.jp/news/article/146754",
+    "title": "ブルーインパルス奈良展示飛行、平城宮跡での観覧ルールは？ 場所取り制限など案内 11月21・22日",
+    "site": "FlyTeam",
+    "description": "奈良市の平城宮跡歴史公園は、11月21日・22日に予定されている航空自衛隊「ブルーインパルス」の飛行に伴う観覧時の注意事項を発表した。一部エリアでは場所取りが制限され、展望デッキも一時閉鎖される。",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "奈良のシカ慰霊祭",
+   "points": [
+    "事故や病気で死んだシカを供養する毎年の行事",
+    "主催は奈良の鹿愛護会"
+   ],
+   "lines": [
+    {
+     "say": "この1年間に、事故や病気で死んだ奈良のシカを供養する慰霊祭が、今日、奈良市で開かれました。",
+     "show": "この1年間に事故や病気で死んだ「奈良のシカ」を供養する慰霊祭が、20日、奈良市で行われました。"
+    },
+    {
+     "say": "慰霊祭は、シカの保護活動に取り組む奈良の鹿愛護会が、毎年開いているものです。",
+     "show": "慰霊祭は、シカの保護活動に取り組む奈良の鹿愛護会が、毎年開いているものです。"
+    }
+   ],
+   "url": "https://news.web.nhk/newsweb/na/nd-20261120de78894",
+   "link": {
+    "url": "https://news.web.nhk/newsweb/na/nd-20261120de78894",
+    "title": "交通事故などで死んだ「奈良のシカ」を供養する慰霊祭",
+    "site": "NHK",
+    "description": "この1年間に奈良公園やその周辺で事故や病気によって死んだ、国の天然記念物の「奈良のシカ」を供養する慰霊祭が、20日、奈良市で行われた。慰霊祭は奈良のシカの保護活動に取り組む「奈良の鹿愛護会」が毎年開いている。",
+    "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78894/20261120de78894_E0000195533_1_l.jpg",
+    "icon": null
+   }
+  },
+  {
+   "label": "伝説の大道芸人、ギリヤーク尼ヶ崎さん死去",
+   "points": [
+    "96歳、誤嚥性肺炎のため",
+    "1968年から全国の街頭で踊り続け、被災地でも鎮魂の舞"
+   ],
+   "lines": [
+    {
+     "say": "最後は文化の話題です。伝説の大道芸人と呼ばれた、ギリヤーク・アマガサキさんが亡くなりました。96歳でした。",
+     "show": "最後は文化の話題です。「伝説の大道芸人」ギリヤーク尼ヶ崎さんが亡くなりました。96歳でした。"
+    },
+    {
+     "say": "津軽三味線に合わせた創作舞踊で、1968年から全国の街頭で踊り続け、震災の被災地でも鎮魂の舞を捧げてきました。",
+     "show": "津軽三味線に合わせた創作舞踊で、1968年から全国の街頭で踊り続け、震災の被災地でも鎮魂の舞を捧げてきました。"
+    }
+   ],
+   "url": "https://www.asahi.com/articles/ASVCL3CDKVCLIIPE00NM.html?iref=ogimage_rek",
+   "link": {
+    "url": "https://www.asahi.com/articles/ASVCL3CDKVCLIIPE00NM.html?iref=ogimage_rek",
+    "title": "「伝説の大道芸人」ギリヤーク尼ケ崎さん死去　被災地で鎮魂の舞い",
+    "site": "朝日新聞",
+    "description": "津軽三味線の音色に合わせた創作舞踊で「伝説の大道芸人」と呼ばれたギリヤーク尼ケ崎さんが17日、誤嚥性肺炎のため東京都内の病院で死去した。96歳だった。",
+    "image": null,
+    "icon": null
    }
   }
  ],
  "closing": [
   {
-   "say": "今日の注目は、ミラコ2とフォームネクストの受賞、AIがものづくりにつながる流れです。",
-   "show": "今日の注目は、MIRACO 2とFormnextの受賞、AIがものづくりにつながる流れです。"
+   "say": "今日の注目ポイントは3つ。日経平均の大きな下げ、米中ロ首脳会談と日米電話会談の一連の外交、そしてアンソロピックの史上最大の上場です。",
+   "show": "今日の注目ポイントは3つ。日経平均の急落、米中ロ首脳会談と日米電話会談、そしてAnthropicの史上最大のIPOです。"
   },
   {
-   "say": "それではまた、ものラジオでした。いってらっしゃい。",
-   "show": "それではまた、ものラジオでした。いってらっしゃい。"
+   "say": "以上、夕方のニュースでした。それではまた明日、るなラジオでした。",
+   "show": "以上、夕方のニュースでした。それではまた明日、るなラジオでした。"
   }
  ],
- "format": "monoradio/news-1",
- "date": "2026-11-20",
- "lang": "ja",
- "seconds": 82.11,
+ "highlight": 0,
+ "seconds": 399.17,
  "lines_timed": [
   {
    "start": 0.6,
-   "end": 5.646,
-   "show": "ものラジオです。11月20日金曜日、朝のニュースをお届けします。",
+   "end": 9.56,
+   "show": "こんばんは、るなラジオです。11月20日金曜日、夕方のニュースをお届けします。",
    "part": 0
   },
   {
-   "start": 5.896,
-   "end": 8.736,
-   "show": "今日はAIと3Dの話題を5本どうぞ。",
+   "start": 9.81,
+   "end": 15.85,
+   "show": "今日は外交と市場の大きな動きを中心に、10本です。",
    "part": 0
   },
   {
-   "start": 9.786,
-   "end": 12.986,
-   "show": "まずはGoogleの新モデル、Gemini 4 Neonです。",
+   "start": 16.9,
+   "end": 32.9,
+   "show": "まずは株式市場です。今日の日経平均株価は、前日比3007円安の5万6436円で取引を終えました。",
    "part": 1
   },
   {
-   "start": 13.236,
-   "end": 17.563,
-   "show": "100万トークンの長い文脈で、開発や分析に強いそうです。",
+   "start": 33.15,
+   "end": 45.91,
+   "show": "1日の下げ幅としては歴代5番目の大きさで、5万7000円を下回るのは今年4月以来、7カ月ぶりです。",
    "part": 1
   },
   {
-   "start": 17.813,
-   "end": 20.317,
-   "show": "途中の修正指示にも付いてきますよ。",
+   "start": 46.16,
+   "end": 55.8,
+   "show": "アメリカのAIや半導体関連の株安が波及して、ほぼ全面安の展開になりました。",
    "part": 1
   },
   {
-   "start": 21.367,
-   "end": 24.869,
-   "show": "続いては3Dスキャナー、RevopointのMIRACO 2です。",
+   "start": 56.85,
+   "end": 76.01,
+   "show": "続いて世界の動きです。中国の習近平国家主席、アメリカのトランプ大統領、ロシアのプーチン大統領が、中国・深圳で初めての3者会談を開きました。",
    "part": 2
   },
   {
-   "start": 25.119,
-   "end": 28.9,
-   "show": "パソコンなしで、スキャンから編集までこれ一台でできます。",
+   "start": 76.26,
+   "end": 85.34,
+   "show": "3人は、核戦争は決して起こしてはならないと再確認する、平和宣言に合意しました。",
    "part": 2
   },
   {
-   "start": 29.15,
-   "end": 31.886,
-   "show": "AIに言葉で頼める機能もあるんですよ。",
+   "start": 85.59,
+   "end": 95.67,
+   "show": "一方で、ウクライナ情勢などをめぐる隔たりは大きく、宣言の実効性を疑問視する声もあります。",
    "part": 2
   },
   {
-   "start": 32.936,
-   "end": 36.02,
-   "show": "さて次は、Formnextの受賞ニュースです。",
+   "start": 96.72,
+   "end": 105.4,
+   "show": "この会談を受けて、高市首相は昨夜、トランプ大統領と電話で会談しました。",
    "part": 3
   },
   {
-   "start": 36.27,
-   "end": 42.791,
-   "show": "AIで流路を最適化した造形物と、印刷の直前だけ乾燥させる装置が選ばれました。",
+   "start": 105.65,
+   "end": 118.33,
+   "show": "会談はおよそ20分で、米中首脳会談や米中ロ会談の中身について、詳しい説明を受けたということです。",
    "part": 3
   },
   {
-   "start": 43.041,
-   "end": 44.825,
-   "show": "真似したくなる工夫ですね。",
+   "start": 118.58,
+   "end": 130.9,
+   "show": "高市首相は、日米は最も信頼し合える同盟国だとしたうえで、関係をさらに引き上げていく考えを示しました。",
    "part": 3
   },
   {
-   "start": 45.875,
-   "end": 49.029,
-   "show": "お次は日本から、ルネサスのロボットハンドです。",
+   "start": 131.95,
+   "end": 140.47,
+   "show": "AIの話題です。米Anthropicがナスダック市場に上場しました。",
    "part": 4
   },
   {
-   "start": 49.279,
-   "end": 53.373,
-   "show": "卵もスポンジも缶も、力を変えてつかみ分けるデモでした。",
+   "start": 140.72,
+   "end": 155.76,
+   "show": "IPOによる調達額は813億ドル（約13兆円）で、スペースXを上回り過去最大となりました。",
    "part": 4
   },
   {
-   "start": 53.623,
-   "end": 57.346,
-   "show": "指先のセンサーと画像認識の合わせ技が面白いです。",
+   "start": 156.01,
+   "end": 170.93,
+   "show": "日本からの需要も募集額のおよそ4倍に達しましたが、AI市場の先行きを慎重に見る投資家もいて、反応には温度差があったようです。",
    "part": 4
   },
   {
-   "start": 58.396,
-   "end": 60.482,
-   "show": "最後はMicrosoftのニュースです。",
+   "start": 171.98,
+   "end": 182.98,
+   "show": "三菱UFJ銀行は、顧客情報約650万件が漏えいしたと発表しました。",
    "part": 5
   },
   {
-   "start": 60.732,
-   "end": 66.266,
-   "show": "エージェント開発の道具をまとめた、Foundry Dev Packが一般提供になりました。",
+   "start": 183.23,
+   "end": 197.51,
+   "show": "漏れたのは性別、年齢、住んでいる地域で、名前やメールアドレスなど、個人を特定できる情報は含まれていないということです。",
    "part": 5
   },
   {
-   "start": 66.516,
-   "end": 69.635,
-   "show": "動作の確認や評価まで同じ流れでできます。",
+   "start": 197.76,
+   "end": 213.08,
+   "show": "原因は、委託先プレイドのサービス「KARTE」への不正アクセスで、他社でも同様の流出が相次いでいます。",
    "part": 5
   },
   {
-   "start": 70.685,
-   "end": 76.637,
-   "show": "今日の注目は、MIRACO 2とFormnextの受賞、AIがものづくりにつながる流れです。",
+   "start": 214.13,
+   "end": 220.57,
+   "show": "GoogleのGeminiに、PCを操作する新機能「Computer use」が加わりました。",
    "part": 6
   },
   {
-   "start": 76.887,
-   "end": 80.064,
-   "show": "それではまた、ものラジオでした。いってらっしゃい。",
+   "start": 220.82,
+   "end": 230.78,
+   "show": "指示に応じて、ファイルやアプリ、ウェブサイトを横断しながら、クリックや文字入力を代行してくれます。",
    "part": 6
+  },
+  {
+   "start": 231.03,
+   "end": 244.15,
+   "show": "作業は別のウィンドウで進むので、自分の作業は続けられます。提供はアメリカから順次で、日本はまだ未定です。",
+   "part": 6
+  },
+  {
+   "start": 245.2,
+   "end": 257.88,
+   "show": "暮らしの話題です。10月の消費者物価指数（生鮮食品を除く）は前年同月比2.2%上昇しました。",
+   "part": 7
+  },
+  {
+   "start": 258.13,
+   "end": 271.97,
+   "show": "電気・ガス料金への補助が縮小したことでエネルギーが値上がりする一方、お米の価格が下がって、食料の伸びは緩やかになりました。",
+   "part": 7
+  },
+  {
+   "start": 272.22,
+   "end": 277.26,
+   "show": "伸び率は市場の予想を少し下回りました。",
+   "part": 7
+  },
+  {
+   "start": 278.31,
+   "end": 292.11,
+   "show": "奈良の話題です。航空自衛隊「ブルーインパルス」が11月21日・22日に奈良市上空で展示飛行を行います。",
+   "part": 8
+  },
+  {
+   "start": 292.36,
+   "end": 306.4,
+   "show": "奈良基地開庁70周年を記念した行事で、本番の展示飛行は22日の午前11時20分から12時の予定です。",
+   "part": 8
+  },
+  {
+   "start": 306.65,
+   "end": 318.21,
+   "show": "会場の平城宮跡歴史公園では混雑が予想されていて、公共交通機関での来場が呼びかけられています。",
+   "part": 8
+  },
+  {
+   "start": 319.26,
+   "end": 329.58,
+   "show": "この1年間に事故や病気で死んだ「奈良のシカ」を供養する慰霊祭が、20日、奈良市で行われました。",
+   "part": 9
+  },
+  {
+   "start": 329.83,
+   "end": 338.95,
+   "show": "慰霊祭は、シカの保護活動に取り組む奈良の鹿愛護会が、毎年開いているものです。",
+   "part": 9
+  },
+  {
+   "start": 340.0,
+   "end": 354.16,
+   "show": "最後は文化の話題です。「伝説の大道芸人」ギリヤーク尼ヶ崎さんが亡くなりました。96歳でした。",
+   "part": 10
+  },
+  {
+   "start": 354.41,
+   "end": 369.69,
+   "show": "津軽三味線に合わせた創作舞踊で、1968年から全国の街頭で踊り続け、震災の被災地でも鎮魂の舞を捧げてきました。",
+   "part": 10
+  },
+  {
+   "start": 370.74,
+   "end": 390.02,
+   "show": "今日の注目ポイントは3つ。日経平均の急落、米中ロ首脳会談と日米電話会談、そしてAnthropicの史上最大のIPOです。",
+   "part": 11
+  },
+  {
+   "start": 390.27,
+   "end": 397.67,
+   "show": "以上、夕方のニュースでした。それではまた明日、るなラジオでした。",
+   "part": 11
   }
  ],
  "segments": [
@@ -327,44 +526,74 @@
    "kind": "opening",
    "index": null,
    "start": 0.6,
-   "end": 9.786
+   "end": 15.85
   },
   {
    "kind": "news",
    "index": 0,
-   "start": 9.786,
-   "end": 21.367
+   "start": 16.9,
+   "end": 55.8
   },
   {
    "kind": "news",
    "index": 1,
-   "start": 21.367,
-   "end": 32.936
+   "start": 56.85,
+   "end": 95.67
   },
   {
    "kind": "news",
    "index": 2,
-   "start": 32.936,
-   "end": 45.875
+   "start": 96.72,
+   "end": 130.9
   },
   {
    "kind": "news",
    "index": 3,
-   "start": 45.875,
-   "end": 58.396
+   "start": 131.95,
+   "end": 170.93
   },
   {
    "kind": "news",
    "index": 4,
-   "start": 58.396,
-   "end": 70.685
+   "start": 171.98,
+   "end": 213.08
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 214.13,
+   "end": 244.15
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 245.2,
+   "end": 277.26
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 278.31,
+   "end": 318.21
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 319.26,
+   "end": 338.95
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 340.0,
+   "end": 369.69
   },
   {
    "kind": "closing",
    "index": null,
-   "start": 70.685,
-   "end": 82.114
+   "start": 370.74,
+   "end": 399.17
   }
  ],
- "made_at": "2026-11-20T06:51:42"
+ "made_at": "2026-11-20T17:34:55"
 }
