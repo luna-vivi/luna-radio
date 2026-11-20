@@ -24,12 +24,12 @@
    "y": 284
   },
   "blink": {
-   "src": "blink_v3.png",
+   "src": "blink_v2.png",
    "x": 321,
    "y": 220
   },
   "half_blink": {
-   "src": "half_blink_v3.png",
+   "src": "half_blink_v2.png",
    "x": 321,
    "y": 220
   }
