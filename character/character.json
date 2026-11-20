@@ -9,17 +9,17 @@
  "base": "base_v2.png",
  "parts": {
   "mouth_open": {
-   "src": "mouth_open_v5.png",
+   "src": "mouth_open_v6.png",
    "x": 417,
    "y": 284
   },
   "mouth_half": {
-   "src": "mouth_half_v5.png",
+   "src": "mouth_half_v6.png",
    "x": 417,
    "y": 284
   },
   "smile_mouth": {
-   "src": "smile_mouth_v5.png",
+   "src": "smile_mouth_v6.png",
    "x": 417,
    "y": 284
   },
