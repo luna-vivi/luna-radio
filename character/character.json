@@ -39,8 +39,7 @@
   "2": "mouth_open"
  },
  "eye": {
-  "blink": "blink",
-  "half": "half_blink"
+  "blink": "blink"
  },
  "expressions": {
   "smile": {
